@@ -6,4 +6,9 @@ public class Main {
     private static void playMusic() {
         System.out.println("Music is playing....");
     }
+
+
+    private static void stopMusic() {
+        System.out.println("Music is stop....");
+    }
 }
